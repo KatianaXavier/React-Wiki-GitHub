@@ -10,6 +10,9 @@
 - utilizados filters JavaScript e 
 - feitas as configurações necessárias para consumo de API.
 
+#### Veja o projeto aqui:
+🔗 https://katianaxavier.github.io/react-wiki-site/
+
 ### 💫 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
