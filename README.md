@@ -11,7 +11,7 @@
 - feitas as configurações necessárias para consumo de API.
 
 #### Veja o projeto aqui:
-🔗 https://katianaxavier.github.io/react-wiki-site/
+🔗 https://wiki-github.netlify.app/
 
 ### 💫 Tecnologias
 
